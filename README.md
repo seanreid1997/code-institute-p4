@@ -100,7 +100,7 @@ Developer: Sean Reid
 
 ### User Manual
 
-<details><summary>Overview</summary>
+<details><summary>Overview</summary></details>
 
 
 #### 
@@ -110,11 +110,11 @@ Developer: Sean Reid
 
 ### Agile Methodologies
 
-<details><summary></summary>
+<details><summary></summary></details>
 
 ### Data Model
 
-<details><summary></summary>
+<details><summary></summary></details>
 
 ## Technologies Used
 
