@@ -36,14 +36,14 @@ Developer: Sean Reid
 ### User Goals
 
 <ul>
-<li>User should be able view and change data on the company spreadsheets.</li>
+<li></li>
 </ul>
 
 ### Site Owner Goals
 
 <ul>
-<li>I want users to be able to view to the relevant data.</li>
-<li>I want users to be able to add and/or remove data.</li>
+<li></li>
+<li></li>
 </ul>
 
 ## User Experience
@@ -51,7 +51,7 @@ Developer: Sean Reid
 ### Targeted Audience
 
 <ul>
-<li>Authorised users who need analyse company data for review.</li>
+<li></li>
 </ul>
 
 ### User Requirements and Expectations
@@ -59,39 +59,37 @@ Developer: Sean Reid
 <ul>
 <li>Login equired</li>
 <li>Program should run without errors</li>
-<li>Instructions and options should be clearly conveyed</li>
-<li>Option to return to the start</li>
 </ul>
 
 ## User Stories
 
 ### As A First Time User:
 
-1. As a user I expect the program to be secure.
-2. I want to be able register my login credentials.
-3. I want to be able to view data on the company spreadsheet.
-4. I want to be able to manipulate data on the company spreadsheet.
-5. I want to be able to return to menu.
-6. I want to the data to be consistent.
-7. I want to be able to return to the start/exit.
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
 
 ### As A Returning User:
 
-8. I expect to be able to login using my pre-registered credentials.
-9. I expect the program to work the same regardless of browser or device.
+8. 
+9. 
 
 ### As A Site Owner:
 
-10. I want the program to be well spaced in managment.
-11. I want the program to be protected and require authorisation before it begins.
-12. I want users to be able to manipulate spreadsheet. 
-13. I want users to interact with the program hasslefree.
-14. I want users to receive error messages and the program to provide solutions.
-15. I want users to be able to return to the start.
+10. 
+11. 
+12. 
+13. 
+14. 
+15. 
 
 ### Description
 
-This is an automation designed to view and alter information retrieved from the company's database via spreadsheet.
+
 
 ## Design
 
@@ -245,6 +243,7 @@ The website was tested on the browsers via:
 
 <ul>
 <li>Template used was the Code Institute gitpod full template.</li>
+<li>Template for README file was taken from my third projcet.</li>
 <li>The Code Institute 'I Think Therefore I Blog' Walkthrough was used as a base for this project.</li>
 </ul>
 
