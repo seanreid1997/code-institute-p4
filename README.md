@@ -208,7 +208,7 @@ The website was tested on the browsers via:
 
 | **Bugs** | **Fixes** |
 | -------- | --------- |
-|   |  |
+| Forbidden (403) error occurs when trying to access the admin panel  | Add 'CSRF_TRUSTED_ORIGINS = ['https://example.io']' code to settings.py file |
 
 ## Unfixed Bugs
 <ul>

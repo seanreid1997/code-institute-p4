@@ -25,11 +25,11 @@ class Post(models.Model):
         return self.likes.count()
 
 
-class Comments(models.Model):
+class Comment(models.Model):
     """
     Class for comments added to database(temporary docstring)
     """
-    post = models.ForeignKey(User, on_delete=models.CASCADE, related_name="comments")
+    user_profile = models.ForeignKey(User, on_delete=models.CASCADE, related_name="comments")
     name = models.CharField(max_length=80)
     text = models.TextField()
     created_on = models.DateTimeField(auto_now_add=True)
