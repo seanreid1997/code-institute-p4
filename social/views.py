@@ -17,5 +17,8 @@ def register(request):
     """
     temp docstring
     """
-
+    if request.method == 'POST':
+        pass
+    else:
+        return render(request, 'register.html')
     
