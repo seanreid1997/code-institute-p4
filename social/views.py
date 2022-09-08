@@ -2,9 +2,11 @@ from django.shortcuts import render, redirect
 from django.views import generic
 from django.contrib import messages
 from django.contrib.auth.models import User, auth
+from django.contrib.auth.decorators import login_required
 from .models import Post, Profile
 
 
+@login_required(login_url='login')
 class Posts(generic.ListView):
     """
     temp docstring
@@ -67,6 +69,7 @@ def login(request):
         return render(request, 'signin.html')
 
 
+@login_required(login_url='login')
 def logout(request):
     """
     Function to sign user out and
