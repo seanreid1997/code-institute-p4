@@ -53,4 +53,4 @@ class Profile(models.Model):
     profile_image = CloudinaryField('image', default='https://t3.ftcdn.net/jpg/03/46/83/96/360_F_346839683_6nAPzbhpSkIpb8pmAwufkC7c5eD7wYws.jpg')
 
     def __str__(self):
-        return self.username
+        return self.user.username
