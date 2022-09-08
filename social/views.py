@@ -67,6 +67,15 @@ def login(request):
         return render(request, 'signin.html')
 
 
+def logout(request):
+    """
+    Function to sign user out and
+    redirect them to login page
+    """
+    auth.logout(request)
+    return redirect('login')
+
+
 def profile(request):
     """
     temp docstring

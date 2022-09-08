@@ -121,6 +121,8 @@ Developer: Sean Reid
 ### Languages
 
 <ul>
+<li>CSS</li>
+<li>Html</li>
 <li>Python</li>
 </ul>
 
@@ -147,12 +149,13 @@ Developer: Sean Reid
 
 <ul>
 <li>os</li>
+<li></li>
 </ul>
 
 #### 3rd Party Libraries
 
 <ul>
-<li></li>
+<li>Summernote</li>
 </ul>
 
 ## Features
