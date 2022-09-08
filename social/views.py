@@ -24,7 +24,7 @@ def register(request):
         username = request.POST['username']
         email = request.POST['email']
         password = request.POST['password']
-        
+
         if User.objects.filter(email=email).exists():
             messages.info(request, 'Email is already in use')
             return redirect('register')
@@ -32,23 +32,39 @@ def register(request):
             messages.info(request, 'Username is already in use')
             return redirect('register')
         else:
-            user = User.objects.create_user(email=email, username=username, password=password)
+            user = User.objects.create_user(email=email, username=username,
+                                            password=password)
             user.save()
 
             user_model = User.objects.get(username=username)
-            new_profile = Profile.objects.create(user=user_model, id_user=user_model.id)
+            new_profile = Profile.objects.create(user=user_model,
+                                                 id_user=user_model.id)
             new_profile.save()
             return redirect(profile)
 
     else:
         return render(request, 'register.html')
-    
+
 
 def login(request):
     """
     temp docstring
     """
-    return render(request, 'login.html')
+    if request.method == 'POST':
+        username = request.POST['username']
+        password = request.POST['password']
+
+        user = auth.authenticate(username=username, password=password)
+
+        if user is not None:
+            auth.login(request, user)
+            return redirect('/')
+        else:
+            messages.info(request, 'Username or Password is incorrect')
+            return redirect('login')
+
+    else:
+        return render(request, 'signin.html')
 
 
 def profile(request):

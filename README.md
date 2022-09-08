@@ -36,14 +36,14 @@ Developer: Sean Reid
 ### User Goals
 
 <ul>
-<li></li>
+<li>Connect with others on a social media platform</li>
 </ul>
 
 ### Site Owner Goals
 
 <ul>
-<li></li>
-<li></li>
+<li>Provide users with a good experience.</li>
+<li>Allow users to communicate online via social media platform.</li>
 </ul>
 
 ## User Experience
@@ -51,7 +51,7 @@ Developer: Sean Reid
 ### Targeted Audience
 
 <ul>
-<li></li>
+<li>Anybody interested in social media</li>
 </ul>
 
 ### User Requirements and Expectations
@@ -95,7 +95,7 @@ Developer: Sean Reid
 
 ### Flowchart
 <details><summary>Flowchart</summary>
-<img src="">
+<img src="media/p4flowchart.jpg">
 </details>
 
 ### User Manual
