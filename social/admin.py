@@ -1,6 +1,6 @@
 from django.contrib import admin
 from django_summernote.admin import SummernoteModelAdmin
-from .models import Post, Comment
+from .models import Post, Comment, Profile
 
 
 @admin.register(Post)
@@ -26,3 +26,12 @@ class CommentAdmin(SummernoteModelAdmin):
 
     def approve_comments(self, request, queryset):
         queryset.update(approved=True)
+
+
+@admin.register(Profile)
+class ProfileAdmin(SummernoteModelAdmin):
+    """ 
+    templ docstring
+    """
+    search_fields = ['user', 'id_user']
+

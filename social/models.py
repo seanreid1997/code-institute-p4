@@ -40,3 +40,16 @@ class Comment(models.Model):
 
     def __str__(self):
         return f"Comment {self.text} by {self.name}"
+
+
+class Profile(models.Model):
+    """
+    temp docstring
+    """
+    user = models.ForeignKey(User, on_delete=models.CASCADE)
+    id_user = models.IntegerField()
+    created_on = models.DateTimeField(auto_now_add=True)
+    profile_image = CloudinaryField('image', default='https://t3.ftcdn.net/jpg/03/46/83/96/360_F_346839683_6nAPzbhpSkIpb8pmAwufkC7c5eD7wYws.jpg')
+
+    def __str__(self):
+        return self.user.name
