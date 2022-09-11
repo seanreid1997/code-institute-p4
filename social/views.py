@@ -38,6 +38,11 @@ def register(request):
                                             password=password)
             user.save()
 
+            # log user in and redirect to settings page
+            user_login = auth.authenticate(username=username, 
+                                           password=password)
+            auth.login(request, 'settings')
+
             user_model = User.objects.get(username=username)
             new_profile = Profile.objects.create(user=user_model,
                                                  id_user=user_model.id)
@@ -84,3 +89,11 @@ def profile(request):
     temp docstring
     """
     return render(request, 'index.html')
+
+
+@login_required(login_url='login')
+def settings(request):
+    """
+    View for user profile settings
+    """
+    return render(request, 'settings.html')
