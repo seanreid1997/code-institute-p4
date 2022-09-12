@@ -16,15 +16,28 @@
 <!--Registration form-->
         <form action="" method="POST">
             {% csrf_token %}
-
-            <input type="text" name="username" placeholder="Username"
+            <div>
+                <label for="exampleFormControlInput1" class="form-label">Username</label>
+                <br>
+                <input type="text" name="username" placeholder="Username"
                 class="register_input">
-            <input type="email" name="email" placeholder="Email" class="register_input">
-            <input type="password" name="password" placeholder="Password"
+              </div>
+              <div>
+                <label for="exampleFormControlInput1" class="form-label">Email address</label>
+                <br>
+                <input type="email" name="email" placeholder="Email" class="register_input">
+              </div>
+              <div>
+                <label for="exampleFormControlInput1" class="form-label">Password</label>
+                <br>
+                <input type="password" name="password" placeholder="Password"
                 class="register_input">
-            <button type="submit"
+              </div>
+              <br>
+              <button type="submit"
                 class="register_btn">Register</button>
             <div>
+            
                 <p class="text-base"> Are You Already Registered? <a href="/login"> Login </a></p>
             </div>
         </form>

@@ -71,7 +71,7 @@ def login(request):
             return redirect('login')
 
     else:
-        return render(request, 'signin.html')
+        return render(request, 'login.html')
 
 
 @login_required(login_url='login')

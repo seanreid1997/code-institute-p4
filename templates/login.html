@@ -4,7 +4,7 @@
 
 <div>
     <div class="register">
-        <h1> Sign Up</h1>
+        <h1> Login</h1>
         <div>
             {% for message in messages %}
             <div class="alert alert-danger" role="alert">
@@ -16,16 +16,21 @@
 <!--Registration form-->
         <form action="" method="POST">
             {% csrf_token %}
-
-            <input type="text" name="username" placeholder="Username"
-                class="register_input">
-            <input type="email" name="email" placeholder="Email" class="register_input">
-            <input type="password" name="password" placeholder="Password"
-                class="register_input">
-            <button type="submit"
-                class="register_btn">Register</button>
             <div>
-                <p class="text-base"> Are You Already Registered? <a href="/login"> Login </a></p>
+                <label for="exampleFormControlInput1" class="form-label">Username</label>
+                <input type="text" name="username" placeholder="Username"
+                class="register_input">
+            </div>
+              <div>
+                <label for="exampleFormControlInput1" class="form-label">Password</label>
+                <input type="password" name="password" placeholder="Password"
+                class="register_input">
+              </div>
+              <br>
+              <button type="submit"
+                class="login_btn">Login</button>
+            <div>
+                <p class="text-base"> Not Registered? <a href="/register"> Register </a></p>
             </div>
         </form>
     </div>
