@@ -1,6 +1,6 @@
-{% extends base.html %}
+{% extends 'base.html' %}
 
-{ block content }
+{% block content %}
 
 <!-- Button trigger modal -->
 <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">
@@ -40,4 +40,4 @@
     </div>
   </div>
 </div>
-{ endblock content }
+{% endblock content %}

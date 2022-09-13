@@ -6,7 +6,6 @@ from django.contrib.auth.decorators import login_required
 from .models import Post, Profile
 
 
-@login_required(login_url='login')
 class Posts(generic.ListView):
     """
     temp docstring
@@ -39,16 +38,15 @@ def register(request):
             user.save()
 
             # log user in and redirect to settings page
-            user_login = auth.authenticate(username=username, 
+            user_login = auth.authenticate(username=username,
                                            password=password)
-            auth.login(request, 'settings')
+            auth.login(request, user_login)
 
             user_model = User.objects.get(username=username)
             new_profile = Profile.objects.create(user=user_model,
                                                  id_user=user_model.id)
             new_profile.save()
-            return redirect(profile)
-
+            return redirect('settings')
     else:
         return render(request, 'register.html')
 
@@ -88,7 +86,7 @@ def profile(request):
     """
     temp docstring
     """
-    return render(request, 'index.html')
+    return render(request, 'profile.html')
 
 
 @login_required(login_url='login')
