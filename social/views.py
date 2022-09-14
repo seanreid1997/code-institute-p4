@@ -95,3 +95,37 @@ def settings(request):
     View for user profile settings
     """
     return render(request, 'settings.html')
+    # user_profile = Profile.objects.get(user=request.user)
+
+    # if request.method == 'POST':
+        
+    #     if request.FILES.get('profile_image') is None:
+    #         image = user_profile.profile_image
+    #         bio = request.POST['bio']
+    #         email = request.POST.get('email')
+    #         fullname = request.POST.get('fullname')
+    #         address = request.POST.get('address')
+
+    #         user_profile.profile_image = image
+    #         user_profile.bio = bio
+    #         user_profile.fullname = fullname
+    #         user_profile.email = email
+    #         user_profile.address = address
+    #         user_profile.save()
+
+    #     if request.FILES.get('image') is not None:
+    #         image = request.FILES.get('profile_image')
+    #         bio = request.POST['bio']
+    #         email = request.POST.get('email')
+    #         fullname = request.POST.get('fullname', False)
+    #         address = request.POST.get('address', False)
+
+    #         user_profile.profile_image = image
+    #         user_profile.fullname = fullname
+    #         user_profile.email = email
+    #         user_profile.bio = bio
+    #         user_profile.address = address
+    #         user_profile.save()
+        
+    #     return redirect('settings')
+    # return render(request, 'settings.html', {'user_profile': user_profile})
