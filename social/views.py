@@ -16,6 +16,10 @@ class Posts(generic.ListView):
     queryset = Post.objects.filter(status=1).order_by('-created_on')
 
 
+def home(request):
+    return render(request, 'index.html')
+
+
 def register(request):
     """
     temp docstring
@@ -63,9 +67,10 @@ def login(request):
 
         if user is not None:
             auth.login(request, user)
+            messages.success(request, 'You have sucessfully logged in')
             return redirect('/')
         else:
-            messages.info(request, 'Username or Password is incorrect')
+            messages.error(request, 'Username or Password is incorrect')
             return redirect('login')
 
     else:
