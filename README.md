@@ -491,7 +491,7 @@ The website was tested on the browsers via:
 
 <ul>
 <li><a href="https://stackoverflow.com/">Stack Overflow</a> provided help on many queries.</li>
-<li>Many tutorials from <a href="https://Youtube.com/">Youtube</a> </li>>
+<li>Many tutorials from <a href="https://Youtube.com/">Youtube</a></li>
 </ul>
 
 ## Acknowledgements
