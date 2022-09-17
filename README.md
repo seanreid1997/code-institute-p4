@@ -447,6 +447,8 @@ The website was tested on the browsers via:
 | **Bugs** | **Fixes** |
 | -------- | --------- |
 | Forbidden (403) error occurs when trying to access the admin panel  | Add 'CSRF_TRUSTED_ORIGINS = ['https://example.io']' code to settings.py file |
+| Upon deployment in Heroku, the following error is displayed "ERROR: Could not build wheels for backports.zoneinfo" | in requirements.txt replace backports.zoneinfo with backports.zoneinfo;python_version<"3.9" |
+
 
 ## Unfixed Bugs
 <ul>
