@@ -4,6 +4,10 @@
     border: none;
 }
 
+.inline {
+    display: inline-block;
+}
+
 footer {
     background-color: black;
     margin-top: 5%;

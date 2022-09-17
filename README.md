@@ -1,4 +1,4 @@
-# Social
+# SocialNet
 
 Developer: Sean Reid
 
