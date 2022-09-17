@@ -65,22 +65,23 @@ Developer: Sean Reid
 
 ### As A First Time User:
 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
+1. I would like the site be tidy with good naveigation.
+2. I would like to open an account.
+3. I want my posts to have their own unique pages. 
+4. I want to be able to follow other users.
+5. I want to be able to like other posts.
+6. I want to be able to comment on other posts.
+7. I want to be able to view other users posts.
+8. I want to be able to edit my profile information.
 
 ### As A Returning User:
 
-8. 
-9. 
+9. I want to be able to login/logout of my account.
+10. I want mhy posts and information to be commited to the database to reduce repitition of data entry.
+11. I want to be to contact the administration team if needed.
 
 ### As A Site Owner:
 
-10. 
 11. 
 12. 
 13. 
