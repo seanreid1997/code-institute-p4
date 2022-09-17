@@ -390,4 +390,4 @@ The website was tested on the browsers via:
  <li>This is a resubmission due to missing the deadline date because of work, depression and personal issues and I'd like to thank the Code Institute staff for their continued support and understanding.</li>
  </ul>
 
- [Return To Top](#Social)
+ [Return To Top](#SocialNet)
