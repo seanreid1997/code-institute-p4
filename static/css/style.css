@@ -8,6 +8,13 @@
     display: inline-block;
 }
 
+.user-settings-img {
+    height: 30%; 
+    width: 30%;
+    margin-bottom: 5%; 
+    border-radius: 50%;
+}
+
 footer {
     background-color: black;
     margin-top: 5%;
