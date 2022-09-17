@@ -173,13 +173,13 @@ Developer: Sean Reid
 
 <ul>
 
-<li>Html code was tested via The PEP8 Python Validator.</li>
+<li>Html code was tested via The W3C Markup Validation Service.</li>
 
-<li>Css code was tested via The PEP8 Python Validator.</li>
+<li>Css code was tested via The W3C CSS Validation Service.</li>
 
-<li>Accessability was tested via The PEP8 Python Validator.</li>
+<li>Accessability was tested via The WAVE Web Accessibility Evaluation Tool.</li>
 
-<li>Performance code was tested via The PEP8 Python Validator.</li>
+<li>Performance code was tested via The Lighthouse Validation Tool.</li>
 
 <li>Python code was tested via The PEP8 Python Validator.</li>
 <br>
