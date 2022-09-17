@@ -175,11 +175,89 @@ Developer: Sean Reid
 
 <li>Html code was tested via The W3C Markup Validation Service.</li>
 
+<details><summary>social.admin.py</summary>
+<img src="media/tempviewspep8valid.jpg"></details>
+
+<details><summary>social.admin.py</summary>
+<img src="media/tempviewspep8valid.jpg"></details>
+
+<details><summary>social.admin.py</summary>
+<img src="media/tempviewspep8valid.jpg"></details>
+
+<details><summary>social.admin.py</summary>
+<img src="media/tempviewspep8valid.jpg"></details>
+
+<details><summary>social.admin.py</summary>
+<img src="media/tempviewspep8valid.jpg"></details>
+
+<details><summary>social.admin.py</summary>
+<img src="media/tempviewspep8valid.jpg"></details>
+
+<details><summary>social.admin.py</summary>
+<img src="media/tempviewspep8valid.jpg"></details>
+
 <li>Css code was tested via The W3C CSS Validation Service.</li>
+
+<details><summary>social.admin.py</summary>
+<img src="media/tempviewspep8valid.jpg"></details>
+
+<details><summary>social.admin.py</summary>
+<img src="media/tempviewspep8valid.jpg"></details>
 
 <li>Accessability was tested via The WAVE Web Accessibility Evaluation Tool.</li>
 
+<details><summary>social.admin.py</summary>
+<img src="media/tempviewspep8valid.jpg"></details>
+
+<details><summary>social.admin.py</summary>
+<img src="media/tempviewspep8valid.jpg"></details>
+
+<details><summary>social.admin.py</summary>
+<img src="media/tempviewspep8valid.jpg"></details>
+
+<details><summary>social.admin.py</summary>
+<img src="media/tempviewspep8valid.jpg"></details>
+
+<details><summary>social.admin.py</summary>
+<img src="media/tempviewspep8valid.jpg"></details>
+
+<details><summary>social.admin.py</summary>
+<img src="media/tempviewspep8valid.jpg"></details>
+
+<details><summary>social.admin.py</summary>
+<img src="media/tempviewspep8valid.jpg"></details>
+
+<details><summary>social.admin.py</summary>
+<img src="media/tempviewspep8valid.jpg"></details>
+
+<details><summary>social.admin.py</summary>
+<img src="media/tempviewspep8valid.jpg"></details>
+
 <li>Performance code was tested via The Lighthouse Validation Tool.</li>
+
+<details><summary>social.admin.py</summary>
+<img src="media/tempviewspep8valid.jpg"></details>
+
+<details><summary>social.admin.py</summary>
+<img src="media/tempviewspep8valid.jpg"></details>
+
+<details><summary>social.admin.py</summary>
+<img src="media/tempviewspep8valid.jpg"></details>
+
+<details><summary>social.admin.py</summary>
+<img src="media/tempviewspep8valid.jpg"></details>
+
+<details><summary>social.admin.py</summary>
+<img src="media/tempviewspep8valid.jpg"></details>
+
+<details><summary>social.admin.py</summary>
+<img src="media/tempviewspep8valid.jpg"></details>
+
+<details><summary>social.admin.py</summary>
+<img src="media/tempviewspep8valid.jpg"></details>
+
+<details><summary>social.admin.py</summary>
+<img src="media/tempviewspep8valid.jpg"></details>
 
 <li>Python code was tested via The PEP8 Python Validator.</li>
 <br>
