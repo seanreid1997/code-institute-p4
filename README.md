@@ -172,6 +172,15 @@ Developer: Sean Reid
 ### Validation
 
 <ul>
+
+<li>Html code was tested via The PEP8 Python Validator.</li>
+
+<li>Css code was tested via The PEP8 Python Validator.</li>
+
+<li>Accessability was tested via The PEP8 Python Validator.</li>
+
+<li>Performance code was tested via The PEP8 Python Validator.</li>
+
 <li>Python code was tested via The PEP8 Python Validator.</li>
 <br>
 <details><summary>social.admin.py</summary>
