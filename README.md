@@ -174,7 +174,28 @@ Developer: Sean Reid
 <ul>
 <li>Python code was tested via The PEP8 Python Validator.</li>
 <br>
+<details><summary>social.admin.py</summary>
+<img src="media/tempviewspep8valid.jpg"></details>
+
+<details><summary>social.models.py</summary>
+<img src="media/tempviewspep8valid.jpg"></details>
+
+<details><summary>social.tests.py</summary>
+<img src="media/tempviewspep8valid.jpg"></details>
+
+<details><summary>social.urls.py</summary>
+<img src="media/tempviewspep8valid.jpg"></details>
+
 <details><summary>social.views</summary>
+<img src="media/tempviewspep8valid.jpg"></details>
+
+<details><summary>social_media.settings.py</summary>
+<img src="media/tempviewspep8valid.jpg"></details>
+
+<details><summary>social.urls.py</summary>
+<img src="media/tempviewspep8valid.jpg"></details>
+
+<details><summary>social.wsgi.py</summary>
 <img src="media/tempviewspep8valid.jpg"></details>
 </ul>
 
