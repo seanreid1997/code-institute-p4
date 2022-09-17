@@ -36,13 +36,13 @@ footer {
 .copyright {
     font-size: 140%;
     color: #fff;
-    padding-bottom: -1%;
+    padding-bottom: 0.1%;
 }
 
 #copyright {
     font-size: 120%;
     color: #fff;
-    padding-bottom: -2%;
+    padding-bottom: 0.1%;
 }
 
 #page-not-found-h1 {

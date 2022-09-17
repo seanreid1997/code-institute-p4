@@ -174,8 +174,8 @@ Developer: Sean Reid
 <ul>
 <li>Python code was tested via The PEP8 Python Validator.</li>
 <br>
-<details><summary></summary>
-<img src="">
+<details><summary>social.views</summary>
+<img src="media/tempviewspep8valid.jpg">
 </ul>
 
 ### Browser Compatibility
