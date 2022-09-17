@@ -189,7 +189,7 @@ The website was tested on the browsers via:
 
 ## User Story Testing
 
-1. 
+1. I would like the site be tidy with good navigation.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
@@ -198,7 +198,7 @@ The website was tested on the browsers via:
 <img src="">
 </details>
 
-2. 
+2. I would like to open an account.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
@@ -207,7 +207,7 @@ The website was tested on the browsers via:
 <img src="">
 </details>
 
-3. 
+3. I want my posts to have their own unique pages. 
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
@@ -216,7 +216,7 @@ The website was tested on the browsers via:
 <img src="">
 </details>
 
-4. 
+4. I want to be able to follow other users.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
@@ -225,7 +225,7 @@ The website was tested on the browsers via:
 <img src="">
 </details>
 
-5. 
+5. I want to be able to like other posts.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
@@ -234,7 +234,7 @@ The website was tested on the browsers via:
 <img src="">
 </details>
 
-6. 
+6. I want to be able to comment on other posts.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
@@ -243,7 +243,7 @@ The website was tested on the browsers via:
 <img src="">
 </details>
 
-7. 
+7. I want to be able to view other users posts.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
