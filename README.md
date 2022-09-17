@@ -252,7 +252,7 @@ The website was tested on the browsers via:
 <img src="">
 </details>
 
-8. 
+8. I want to be able to edit my profile information.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
@@ -261,7 +261,7 @@ The website was tested on the browsers via:
 <img src="">
 </details>
 
-9. 
+9. I want to be able to login/logout of my account.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
@@ -270,7 +270,7 @@ The website was tested on the browsers via:
 <img src="">
 </details>
 
-10. 
+10. I want mhy posts and information to be commited to the database to reduce repitition of data entry.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
@@ -279,7 +279,7 @@ The website was tested on the browsers via:
 <img src="">
 </details>
 
-11. 
+11. I want to be to contact the administration team if needed.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
