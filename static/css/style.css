@@ -44,3 +44,29 @@ footer {
     color: #fff;
     padding-bottom: -2%;
 }
+
+#page-not-found-h1 {
+    font-size: 1000%;
+}
+
+#page-not-found-h2 {
+    font-size: 300%;
+}
+
+#home-button {
+    font-size: 170%;
+    border-radius: 25px;
+    background-color:black;
+    padding: 1%; 
+}
+
+#home-button:hover{
+    cursor: pointer;
+    transition: transform 150ms;
+    transform: scale(1.05);
+}
+
+#home-button a {
+    text-decoration: none;
+    color: #fff;
+}

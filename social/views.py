@@ -159,3 +159,10 @@ def settings(request):
         
     #     return redirect('settings')
     # return render(request, 'settings.html', {'user_profile': user_profile})
+
+
+def page_not_found(request):
+    """
+    View to display 404 page
+    """
+    return render(request, '404.html')

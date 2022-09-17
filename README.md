@@ -197,7 +197,133 @@ The website was tested on the browsers via:
 <img src="">
 </details>
 
-1. 
+2. 
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+|  |  |  |  |
+<details><summary>Screenshots</summary>
+<img src="">
+</details>
+
+3. 
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+|  |  |  |  |
+<details><summary>Screenshots</summary>
+<img src="">
+</details>
+
+4. 
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+|  |  |  |  |
+<details><summary>Screenshots</summary>
+<img src="">
+</details>
+
+5. 
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+|  |  |  |  |
+<details><summary>Screenshots</summary>
+<img src="">
+</details>
+
+6. 
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+|  |  |  |  |
+<details><summary>Screenshots</summary>
+<img src="">
+</details>
+
+7. 
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+|  |  |  |  |
+<details><summary>Screenshots</summary>
+<img src="">
+</details>
+
+8. 
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+|  |  |  |  |
+<details><summary>Screenshots</summary>
+<img src="">
+</details>
+
+9. 
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+|  |  |  |  |
+<details><summary>Screenshots</summary>
+<img src="">
+</details>
+
+10. 
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+|  |  |  |  |
+<details><summary>Screenshots</summary>
+<img src="">
+</details>
+
+11. 
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+|  |  |  |  |
+<details><summary>Screenshots</summary>
+<img src="">
+</details>
+
+12. 
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+|  |  |  |  |
+<details><summary>Screenshots</summary>
+<img src="">
+</details>
+
+13. 
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+|  |  |  |  |
+<details><summary>Screenshots</summary>
+<img src="">
+</details>
+
+14. 
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+|  |  |  |  |
+<details><summary>Screenshots</summary>
+<img src="">
+</details>
+
+15. 
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+|  |  |  |  |
+<details><summary>Screenshots</summary>
+<img src="">
+</details>
+
+16. 
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
