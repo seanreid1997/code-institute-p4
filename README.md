@@ -2,7 +2,7 @@
 
 Developer: Sean Reid
 
-<img src="">
+<img src="media/tempmockp4.jpg">
 <a href="https://social-app-p4.herokuapp.com/">Live App</a>
 
 
