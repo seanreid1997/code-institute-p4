@@ -43,7 +43,7 @@
       </form>
       <div class="collapse navbar-collapse" id="navbarScroll" style="margin-left: 65%;">
         <ul class="navbar-nav me-auto my-2 my-lg-0 navbar-nav-scroll" style="--bs-scroll-height: 100px;">
-          <li><a class="dropdown-item" href="{% url 'home' %}">Home</a></li>
+          <li><a class="dropdown-item" href="{% url 'home' %}"><i class="fas fa-home"></i></a></li>
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
               <i class="fas fa-user-circle"></i>
@@ -65,9 +65,68 @@
     {% endblock content %}
   
 
-  <footer>
-    <p>Footer</p>
-  </footer>
+    <footer class="text-center text-white">
+      <!-- Grid container -->
+      <div>
+        <!-- Section: Social media -->
+        <section class="mb-4" id="footer-icon">
+          <!-- Facebook -->
+          <a
+            class="btn btn-link btn-floating btn-lg text-dark m-1"
+            href="#!"
+            role="button"
+            data-mdb-ripple-color="dark"
+            ><i class="fab fa-facebook-f"></i
+          ></a>
+    
+          <!-- Twitter -->
+          <a
+            class="btn btn-link btn-floating btn-lg text-dark m-1"
+            href="#!"
+            role="button"
+            data-mdb-ripple-color="dark"
+            ><i class="fab fa-twitter"></i
+          ></a>
+    
+          <!-- Google -->
+          <a
+            class="btn btn-link btn-floating btn-lg text-dark m-1"
+            href="#!"
+            role="button"
+            data-mdb-ripple-color="dark"
+            ><i class="fab fa-google"></i
+          ></a>
+    
+          <!-- Instagram -->
+          <a
+            class="btn btn-link btn-floating btn-lg text-dark m-1"
+            href="#!"
+            role="button"
+            data-mdb-ripple-color="dark"
+            ><i class="fab fa-instagram"></i
+          ></a>
+    
+          <!-- Linkedin -->
+          <a
+            class="btn btn-link btn-floating btn-lg text-dark m-1"
+            href="#!"
+            role="button"
+            data-mdb-ripple-color="dark"
+            ><i class="fab fa-linkedin"></i
+          ></a>
+        <!-- Section: Social media -->
+      </div>
+      <!-- Grid container -->
+    
+      <!-- Copyright -->
+      <div class="text-center text-dark p-3" style="background-color: rgba(0, 0, 0, 0.2);">
+        <p class="copyright">
+           © 2022 Copyright:
+        </p>
+        <p id="copyright">SocialNet</p>
+      </div>
+      <!-- Copyright -->
+    </footer>
 </body>
 
 <script src="https://kit.fontawesome.com/d15acb58b5.js" crossorigin="anonymous"></script>

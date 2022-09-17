@@ -4,6 +4,15 @@
     border: none;
 }
 
+nav {
+    margin-bottom: 20%;
+}
+
+nav i {
+    font-size: 160%;
+    color: rgb(81, 81, 81);
+}
+
 .inline {
     display: inline-block;
 }
@@ -16,12 +25,22 @@
 }
 
 footer {
-    background-color: black;
-    margin-top: 5%;
-    padding-top: 5%;
+    background-color: #f1f1f1;
+    margin-top: 20%;
 }
 
-footer p {
-    color: white;
-    font-size: 10%;
+#footer-icon {
+    padding-top: 2%;
+}
+
+.copyright {
+    font-size: 140%;
+    color: #fff;
+    padding-bottom: -1%;
+}
+
+#copyright {
+    font-size: 120%;
+    color: #fff;
+    padding-bottom: -2%;
 }
