@@ -301,7 +301,7 @@ The website was tested on the browsers via:
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-|  |  |  |  |
+| Site should have easy access | Site Navigation | app should operate effeciently  | Works as expected |
 <details><summary>Screenshots</summary>
 <img src="">
 </details>
