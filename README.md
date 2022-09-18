@@ -106,6 +106,8 @@ Developer: Sean Reid
 
 #### 
 <ul>
+<li>User must register to access their profile.</li>
+<li>Once registered user can login/logout of their account.</li>
 <li></li>
 </ul>
 
@@ -452,6 +454,10 @@ The website was tested on the browsers via:
 
 ## Unfixed Bugs
 <ul>
+<li>Css is not being rendered on the live app properly.</li>
+<li>Using django syntax for favicon returns an error.</li>
+<li>Slug and title fields, or any field with {unique=True} returns [Slugs - Key (slug)=(0) is duplicated"] upon migrate command.</li>
+<li>As project is incomplete there are many errors.</li>
 <li></li>
 </ul>
 
@@ -459,18 +465,16 @@ The website was tested on the browsers via:
 
 <ul>
 <li>Within the terminal of your workspace enter:"pip3 freeze > requirements.txt".</li>
+<li>Create your Procfile and add "web: gunicorn social_media.wsgi".</li>
+<li>Before deploying, in settings.py set Debug=True to Debug=False.</li>
+<li>Add secret keys to env.py and add env.py to .gitignore file.</li>
 <li>Commit and push these changes.</li>
 <li>Go to the Heroku website and login/create an account.</li>
 <li>Click on the create app button and give it a name. </li>
 <li>Select a region and then click on the create app button.</li>
 <li>Locate and select the "Settings" tab.</li>
 <li>Locate the "Config Vars" button.</li>
-<li>In the "KEY" textbox, type in "CREDS"</li>
-<li>Return to your workspace and copy all the code on the "creds.json" file.</li>
-<li>Return to your heroku page.</li>
-<li>In the Value textbox of "Config Vars" paste the code from your "creds.json" file and save.</li>
-<li>Next scroll down to buildpacks and select "Add buildpack</li>
-<li>Select and save "Python" and "Nodejs" respectively.</li>
+<li>Enter the required key and values.</li>
 <li>Return to the top and select the "Deploy" tab.</li>
 <li>Select "Connect to Github" and then search for you repository.</li>
 <li>Next scroll down and select the "Deploy branch" button and wait a few minutes.</li>
@@ -497,8 +501,7 @@ The website was tested on the browsers via:
 ## Acknowledgements
 
  <ul>
- <li>I'd like to thank My mentor Mo Shami for his support.</li>
- <li>This is a resubmission due to missing the deadline date because of work, depression and personal issues and I'd like to thank the Code Institute staff for their continued support and understanding.</li>
+ <li>This is a resubmission due to missing the deadline date. Due to work, depression and personal issues this [[rpject is imcomplete. I'd like to thank the Code Institute staff for their continued support and understanding.</li>
  </ul>
 
  [Return To Top](#SocialNet)
