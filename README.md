@@ -113,7 +113,9 @@ Developer: Sean Reid
 
 ### Agile Methodologies
 
-<details><summary></summary></details>
+<details><summary>Screenshot</summary>
+<img src="media/agilep4.jpg">
+</details>
 
 ### Data Model
 
