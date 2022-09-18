@@ -440,7 +440,7 @@ The website was tested on the browsers via:
 ## Acknowledgements
 
  <ul>
- <li>This is a resubmission due to missing the deadline date. Due to work, depression and personal issues this [[rpject is imcomplete. I'd like to thank the Code Institute staff for their continued support and understanding.</li>
+ <li>This is a resubmission due to missing the deadline date. Due to work, depression and personal issues this project is incomplete. I'd like to thank the Code Institute staff for their continued support and understanding and also extend my apoligies for this performance.</li>
  </ul>
 
  [Return To Top](#SocialNet)
