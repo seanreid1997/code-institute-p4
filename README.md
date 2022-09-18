@@ -179,115 +179,52 @@ Developer: Sean Reid
 
 <li>Html code was tested via The W3C Markup Validation Service.</li>
 
-<details><summary>social.admin.py</summary>
-<img src="media/tempviewspep8valid.jpg"></details>
-
-<details><summary>social.admin.py</summary>
-<img src="media/tempviewspep8valid.jpg"></details>
-
-<details><summary>social.admin.py</summary>
-<img src="media/tempviewspep8valid.jpg"></details>
-
-<details><summary>social.admin.py</summary>
-<img src="media/tempviewspep8valid.jpg"></details>
-
-<details><summary>social.admin.py</summary>
-<img src="media/tempviewspep8valid.jpg"></details>
-
-<details><summary>social.admin.py</summary>
-<img src="media/tempviewspep8valid.jpg"></details>
-
-<details><summary>social.admin.py</summary>
-<img src="media/tempviewspep8valid.jpg"></details>
+<details><summary></summary>
+<img src=""></details>
 
 <li>Css code was tested via The W3C CSS Validation Service.</li>
 
-<details><summary>social.admin.py</summary>
-<img src="media/tempviewspep8valid.jpg"></details>
+<details><summary></summary>
+<img src=""></details>
 
-<details><summary>social.admin.py</summary>
-<img src="media/tempviewspep8valid.jpg"></details>
+<details><summary></summary>
+<img src=""></details>
 
 <li>Accessability was tested via The WAVE Web Accessibility Evaluation Tool.</li>
 
-<details><summary>social.admin.py</summary>
-<img src="media/tempviewspep8valid.jpg"></details>
+<details><summary></summary>
+<img src=""></details>
 
-<details><summary>social.admin.py</summary>
-<img src="media/tempviewspep8valid.jpg"></details>
-
-<details><summary>social.admin.py</summary>
-<img src="media/tempviewspep8valid.jpg"></details>
-
-<details><summary>social.admin.py</summary>
-<img src="media/tempviewspep8valid.jpg"></details>
-
-<details><summary>social.admin.py</summary>
-<img src="media/tempviewspep8valid.jpg"></details>
-
-<details><summary>social.admin.py</summary>
-<img src="media/tempviewspep8valid.jpg"></details>
-
-<details><summary>social.admin.py</summary>
-<img src="media/tempviewspep8valid.jpg"></details>
-
-<details><summary>social.admin.py</summary>
-<img src="media/tempviewspep8valid.jpg"></details>
-
-<details><summary>social.admin.py</summary>
-<img src="media/tempviewspep8valid.jpg"></details>
 
 <li>Performance code was tested via The Lighthouse Validation Tool.</li>
 
-<details><summary>social.admin.py</summary>
-<img src="media/tempviewspep8valid.jpg"></details>
-
-<details><summary>social.admin.py</summary>
-<img src="media/tempviewspep8valid.jpg"></details>
-
-<details><summary>social.admin.py</summary>
-<img src="media/tempviewspep8valid.jpg"></details>
-
-<details><summary>social.admin.py</summary>
-<img src="media/tempviewspep8valid.jpg"></details>
-
-<details><summary>social.admin.py</summary>
-<img src="media/tempviewspep8valid.jpg"></details>
-
-<details><summary>social.admin.py</summary>
-<img src="media/tempviewspep8valid.jpg"></details>
-
-<details><summary>social.admin.py</summary>
-<img src="media/tempviewspep8valid.jpg"></details>
-
-<details><summary>social.admin.py</summary>
-<img src="media/tempviewspep8valid.jpg"></details>
+<details><summary></summary>
 
 <li>Python code was tested via The PEP8 Python Validator.</li>
 <br>
 <details><summary>social.admin.py</summary>
-<img src="media/tempviewspep8valid.jpg"></details>
+<img src=""></details>
 
 <details><summary>social.models.py</summary>
-<img src="media/tempviewspep8valid.jpg"></details>
+<img src=""></details>
 
 <details><summary>social.tests.py</summary>
-<img src="media/tempviewspep8valid.jpg"></details>
+<img src=""></details>
 
 <details><summary>social.urls.py</summary>
-<img src="media/tempviewspep8valid.jpg"></details>
+<img src=""></details>
 
 <details><summary>social.views</summary>
 <img src="media/tempviewspep8valid.jpg"></details>
 
 <details><summary>social_media.settings.py</summary>
-<img src="media/tempviewspep8valid.jpg"></details>
+<img src=""></details>
 
 <details><summary>social.urls.py</summary>
-<img src="media/tempviewspep8valid.jpg"></details>
+<img src=""></details>
 
 <details><summary>social.wsgi.py</summary>
-<img src="media/tempviewspep8valid.jpg"></details>
+<img src="g"></details>
 </ul>
 
 ### Browser Compatibility
